@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Usage Management</string>
+    <string name="jelszo">Jelszó</string>
+    <string name="felhasznalonev">Felhasználónév</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="list">Lista</string>
+    <string name="usage">Új használat</string>
+    <string name="leiras">Leirás</string>
+    <string name="usagetype">Tipus</string>
+    <string name="felvetel">Felvétel</string>
+    <string name="cancel">Mégse</string>
+    <string name="usagetype_placeholder">Használat Tipusa</string>
+    <string name="usagedescription_placeholder">Használat leirása</string>
+    <string name="usagestatus_placeholder">Használat státusza</string>
+    <string name="info">Infó</string>
+    <string name="update">Módositás</string>
+    <string name="delete">Törlés</string>
+    <string-array name="usageStatus">
+        <item>Received</item>
+        <item>Rejected</item>
+        <item>Recycled</item>
+        <item>Guided</item>
+        <item>Rated</item>
+        <item>Billed</item>
+    </string-array>
+</resources>
